@@ -1,0 +1,6 @@
+numpy
+pandas==1.4.3
+scikit-learn==1.1.1
+pre-commit
+
+shroomdk==1.0.1
